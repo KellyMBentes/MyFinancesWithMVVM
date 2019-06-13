@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817954624005",
+    "firebase_url": "https://my-finances-df085.firebaseio.com",
+    "project_id": "my-finances-df085",
+    "storage_bucket": "my-finances-df085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817954624005:android:b6180e3cb9bbe30b",
+        "android_client_info": {
+          "package_name": "com.kellymbentes.myfinanceswithmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817954624005-fih5rptd866k2ba5v29ap788rm8v6sqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kellymbentes.myfinanceswithmvvm",
+            "certificate_hash": "109cdb00a3dc72bacd94566655ee2b231e41229c"
+          }
+        },
+        {
+          "client_id": "817954624005-gecb0lsvvibug90mbv4rnot18f2k077b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSBO2vUTRYeJLOb5jSxW30OuRw8HobGuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817954624005-gecb0lsvvibug90mbv4rnot18f2k077b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
